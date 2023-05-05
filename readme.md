@@ -6,7 +6,7 @@
  this is a very limited Text Editor 
  
  
- ![Regex](./assets/Capture.PNG)
+ ![Regex](./Assets/Capture.PNG)
  
  
 ### deployed link
